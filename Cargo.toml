@@ -13,3 +13,6 @@ users = "0.11.0"
 
 [build-dependencies]
 tonic-build = "0.12.3"
+
+[features]
+dummy = []
