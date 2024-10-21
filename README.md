@@ -1,4 +1,4 @@
-# Bonfire Server
+# Bonfire Client
 > Open source AI driven security tool
 
 DO NOT USE IT IN PRODUCTION!
